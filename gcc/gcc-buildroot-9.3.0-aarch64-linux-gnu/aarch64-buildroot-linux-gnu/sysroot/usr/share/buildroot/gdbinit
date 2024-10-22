@@ -1,0 +1,2 @@
+add-auto-load-safe-path /media/cvitek/zixun.li/v500/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot
+set sysroot /media/cvitek/zixun.li/v500/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot

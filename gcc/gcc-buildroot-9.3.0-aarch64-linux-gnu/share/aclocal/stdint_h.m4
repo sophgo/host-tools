@@ -1,0 +1,1 @@
+../gettext-tiny/m4/stdint_h.m4

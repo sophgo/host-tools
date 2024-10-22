@@ -1,0 +1,1 @@
+../gettext-tiny/m4/ansi-c++.m4

@@ -1,0 +1,1 @@
+../gettext-tiny/m4/progtest.m4

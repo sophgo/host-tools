@@ -1,0 +1,1 @@
+../gettext-tiny/m4/lib-prefix.m4

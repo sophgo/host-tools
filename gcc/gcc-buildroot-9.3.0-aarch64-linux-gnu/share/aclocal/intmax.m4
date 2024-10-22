@@ -1,0 +1,1 @@
+../gettext-tiny/m4/intmax.m4

@@ -1,0 +1,1 @@
+../gettext-tiny/m4/printf-posix.m4
